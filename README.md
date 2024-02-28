@@ -13,12 +13,12 @@
 
 
  
-  - &#128204;<a href="https://bookinghotell.netlify.app/" >Demo</a>
+  - &#128204;<a href="https://persian-cms.netlify.app/">Demo</a>
   - 🙋‍♀️Developed by Elahe Fahmideh
   - 📆Created : February 2024
   - Please login first to see all the features of the project ==> username : test & password : 12345$
   - To run the program, first run 'npm install' command in the terminal to install all packages , then run 'npm run dev'.
-  - &#x2714;Technologies : React js , Axios , json-server , react-router-dom , context 
+  - &#x2714;Technologies : React js , Axios , react-router-dom , redux-toolkit , sweet alert , toast 
   - &#128231;Contact with me : <a href="https://www.linkedin.com/in/elahe-fahmideh/">LINKEDIN</a>
 
 
